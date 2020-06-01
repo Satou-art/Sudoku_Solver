@@ -85,5 +85,5 @@ def find_empty(bo):
     return None
 
 if __name__ == '__main__':
-    #TODO : run the prgramm
+    #TODO : run the prgramme
     main()
